@@ -32,4 +32,4 @@ Clone the Repository
 
    Open your terminal and run the following command to clone the repository:
 bash
-   git clone https://github.com/yourusername/responsive-webpage.git
+   git clone https://github.com/Surya4898/90-north-
